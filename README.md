@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @jollybirdie
-- 👀 I’m interested in VCV Rack, Ambient and Space Music
-- 🌱 I’m currently learning C++/VCVRack development
+- 👀 I’m interested in...
+  - Music: VCV Rack, Ambient and Space Music
+  - TTRPGs: Primarily Shadowdark, Delta Green, and Earthdawn
+- 🌱 I’m currently learning FoundryVTT development
 
 <!-- 
 - 💞️ I’m looking to collaborate on ...
